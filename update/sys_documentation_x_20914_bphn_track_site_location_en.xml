@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="location" label="Location" language="en" table="x_20914_bphn_track_site">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <help/>
+            <hint/>
+            <label>Location</label>
+            <language>en</language>
+            <name>x_20914_bphn_track_site</name>
+            <plural>Locations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jbhavsar</sys_created_by>
+            <sys_created_on>2017-01-31 04:19:16</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>def7ff8b4f203200cf98f2318110c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Location</sys_name>
+            <sys_package display_value="BPHN Tracking System" source="x_20914_bphn_track">76b5ff0b4f203200cf98f2318110c70f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="BPHN Tracking System">76b5ff0b4f203200cf98f2318110c70f</sys_scope>
+            <sys_update_name>sys_documentation_x_20914_bphn_track_site_location_en</sys_update_name>
+            <sys_updated_by>jbhavsar</sys_updated_by>
+            <sys_updated_on>2017-01-31 04:19:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
